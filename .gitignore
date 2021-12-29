@@ -1,0 +1,24 @@
+# Xcode
+
+## Build generated
+build/
+b/
+DerivedData/
+derived-data/
+output/
+iOS/Resources/*.plist
+
+## Other
+*.xcuserstate
+.DS_Store
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playground
+timeline.xctimeline
+playground.xcworkspace
+
